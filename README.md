@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubyflameWarrior&theme=github_dark)](https://github.com/RubyflameWarrior)
+
 - 👋 Hi, I’m @RubyflameWarrior
 - 👀 I’m interested in AI development & health informatics
 - 🌱 I’m currently learning C++, Java, & Rust!
